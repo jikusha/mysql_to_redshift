@@ -1,0 +1,3 @@
+datadir
+mysql_kafka_s3/e_shopping_*
+mysql_kafka_s3/logs
